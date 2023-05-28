@@ -59,6 +59,10 @@ npm run initTestDb
 ```bash
 npm run start
 ```
+### test
+In the login screen have username and paswoord for the demo users.
+* Open normal tab in the browser and login with one of the demo users.
+* Open incognito tab(ctrl+shift+N) in the browser and login with other user from the demo users.
 
 ## architecture
 The database holds three collections: Groups, Conversations and Users.
