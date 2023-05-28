@@ -41,19 +41,20 @@ git clone https://github.com/aviv1620/full-stack-messenger.git
 ```bash
 npm install
 ```
+* Insert demo users.
+```bash
+npm run initTestDb
+```
 * Start the server:
 ```bash
 npm run start
 ```
 ### client
 * if you change the port or run the server not locally change the URL in the `.env` file.
+* Open another terminal and navigate to the client directory.
 * Install the dependencies
 ```bash
 npm install
-```
-* Insert demo users.
-```bash
-npm run initTestDb
 ```
 * Start the react host
 ```bash
