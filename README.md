@@ -4,7 +4,7 @@
 This is a full stack messenger application built using the MERN stack ***(MongoDB, Express.js, React.js, Node.js)*** and ***WebSocket*** technology. The application allows users to send and receive messages, block and unblock users, create groups, add and remove users from groups, and receive notifications for new messages.
 
 ## screenshot
-<img src="Screenshot.png" alt="screenshot" width="800"/>  
+<img src="Screenshot.png" alt="screenshot"/>  
 
 note - In contrast to the popular messenger app that rarely features hidden in methods like three dots (…), in this app the UI is designed to fit most of the features in the screenshot.
 
